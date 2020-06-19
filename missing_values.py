@@ -1,7 +1,7 @@
 from sklearn.preprocessing import Imputer
 import pandas as pd
 
-data=pd.read_csv(r"C:\Users\Lenovo\Downloads\housing\housing.csv")
+data=pd.read_csv(r"C:\Users\Dell\Downloads\housing1\housing.csv")
 #get description of data
 print(data.info())
 #call imputer object
